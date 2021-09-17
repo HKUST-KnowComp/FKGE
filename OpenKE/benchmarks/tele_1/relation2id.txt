@@ -1,0 +1,4 @@
+3
+geography#currency	0
+geography#capital	1
+geography#onContinent	2

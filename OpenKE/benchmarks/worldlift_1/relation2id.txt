@@ -1,0 +1,11 @@
+10
+references	0
+relation	1
+owl#sameAs	2
+knows	3
+affiliation	4
+location	5
+performer	6
+address	7
+author	8
+founder	9

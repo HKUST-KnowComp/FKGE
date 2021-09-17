@@ -1,0 +1,13 @@
+12
+references	0
+owl#sameAs	1
+relation	2
+url	3
+image	4
+author	5
+founder	6
+knows	7
+affiliation	8
+sameAs	9
+address	10
+email	11

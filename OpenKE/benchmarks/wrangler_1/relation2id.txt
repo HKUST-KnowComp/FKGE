@@ -1,0 +1,8 @@
+7
+affiliation	0
+relation	1
+knows	2
+address	3
+author	4
+founder	5
+owl#sameAs	6

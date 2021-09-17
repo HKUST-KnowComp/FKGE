@@ -1,0 +1,12 @@
+11
+relation	0
+references	1
+author	2
+knows	3
+birthPlace	4
+owl#sameAs	5
+affiliation	6
+address	7
+sameAs	8
+founder	9
+location	10

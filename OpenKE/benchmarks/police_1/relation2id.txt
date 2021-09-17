@@ -1,0 +1,5 @@
+4
+crimes	0
+crimetype	1
+22-rdf-syntax-ns#type	2
+regions	3

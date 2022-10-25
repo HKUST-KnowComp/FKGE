@@ -35,7 +35,8 @@ class Initializer:
                     line = fp.readline().strip()
                     line = line.replace('*', '')
                     line = line[line.find(']') + 2:]
-                    self.pred_round = int(line.split(' ')[0][:-1])
+                    #self.pred_round = int(line.split(' ')[0][:-1])
+                    self.pred_round = int(line.split(' ')[0])
                     self.pred_result = float(line.split(' ')[1])
                 self.pred_embedding_path = os.path.join('experiment', str(pred_id), kg, 'model', str(self.pred_round), 'embedding.json')
             elif self.log_map[str(pred_id)]['mode'] == 'strategy_1' or self.log_map[str(pred_id)]['mode'] == 'strategy_2':

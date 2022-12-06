@@ -31,7 +31,7 @@ By running baseline embeddings, you will create a ```experiment/``` folder and t
 
 
 ### Federated Knowledge Graphs Embedding
-Please send any questions about the code and/or the algorithm to 
+
 
 **After obtaining KG's initital embeddings from running the baseline model (make sure there are embeddings in the ```experiment/0/``` folder), run**: 
 
